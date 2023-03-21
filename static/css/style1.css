@@ -1,0 +1,15 @@
+body{
+    font-family: fangsong;
+    background-color: white;
+    background-image: -webkit-linear-gradient(70deg,rgb(173 0 208) 50%,rgb(236 253 255)50%);
+    min-height: 1000px;
+}
+
+#container{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
